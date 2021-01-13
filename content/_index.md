@@ -1,7 +1,7 @@
 ---
 date: "2018-02-12T15:37:57+07:00"
 heroBackground: images/jason-blackeye-1191801-unsplash.jpg
-heroHeading: Hero - Hugo Small Business Theme
-heroSubHeading: Hero is a multipurpose Hugo theme with fullscreen hero images and fullwidth sections. It contains content types for a business or portfolio site.
+heroHeading: CSV SOLUTIONS - Data Science Services Made Easy
+heroSubHeading: CSV solutions is aimed at providing data science service for understanding of data while at the same time shielding business from unforeseen future shortcoming using AI.
 title: Home
 ---

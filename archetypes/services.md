@@ -10,48 +10,35 @@ heroSubHeading: 'Services that grow with your business'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Most of the services offered by data science consultants involve understanding business problems, reducing costs, increasing profits and shielding business from unforeseen future losses. The main objective of csv solutions is to do just this. Some of the sevices we offer are:-
 
-## Ne verba patulosque numen vix libet
+## Training and capacity building
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+Development of capacity through continuous learning is very important. Our teaching is majorly focusee on practical projects that are based on hand-on examples. We offer training in the following fields:-
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+1. Advanced Excel
+2. Intermediate and advanced R programming
+3. Intermediate, advanced and deep learning using Python
+4. Power BI and Tableau
+5. IBM SPSS
+6. CSpro, ODK, Survey CTO, goggle forms, Kobo collect, and survey solutions
+7. STATA and SAS
+8. Relational databases using SQL
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+The training are conducted regularly. SOme are free and others are paid for depending on the progress report from the data science learner. We also offer certificates and recommendations after excellent performance.
 
-## Postquam tamen
+## Data Analysis
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+They say the future is in understanding data, well here we easily break down data for you. We provide expert consultation services from:-
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+- Database development using SQL
+- Statistical computing and graphics in both R and Python
+- Data wrangling
+- Automation of analysis processses
+- Dashboard development
+- Web based Shiny applications designs 
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+In the rise of AI, being at the forefront of machine learning and deep learning gives you a competitive advantage in the world. So embrace the power of programming and analysis from the best.
+
+

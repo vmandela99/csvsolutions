@@ -8,4 +8,4 @@ title: Giving Back
 weight: 3
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+Blessed is hand that gives than the hand that receives. We believe that by empowering others, they too will make the world a better place for others, it is a ripple effect kind of theory.
