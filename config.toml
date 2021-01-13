@@ -1,4 +1,4 @@
-baseURL = "www.example.com"
+baseURL = "https://eloquent-hamilton-da512d.netlify.app"
 languageCode = "en-us"
 title = "Hugo Hero Theme"
 theme = "hugo-hero-theme"
