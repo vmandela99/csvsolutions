@@ -72,8 +72,8 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
       <guid>https://csvsolutions.netlify.app/history/</guid>
-      <description>About Heading  There no limits, within this generation we have AI and machine learning tools that can make us get to whatever lenghts we need. Data is the oil that we need to steer the progress forward. At CSV solutions we hand you the power of data understanding.
-    We have the best team from across the globe. Within the data realm, integrity and high quality performance are the most important values.</description>
+      <description>About Heading There no limits, within this generation we have AI and machine learning tools that can make us get to whatever lenghts we need. Data is the oil that we need to steer the progress forward. At CSV solutions we hand you the power of data understanding.
+We have the best team from across the globe. Within the data realm, integrity and high quality performance are the most important values.</description>
     </item>
     
     <item>
@@ -113,6 +113,17 @@ Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco vati d
       <guid>https://csvsolutions.netlify.app/services/business-advisory/</guid>
       <description>They say the future is in understanding data, well here we easily break down data for you. We provide expert consultation services from:-
  Database development using SQL Statistical computing and graphics in both R and Python Data wrangling Automation of analysis processses Dashboard development Web based Shiny applications designs  In the rise of AI, being at the forefront of machine learning and deep learning gives you a competitive advantage in the world.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>https://csvsolutions.netlify.app/2015/07/23/hello-r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://csvsolutions.netlify.app/2015/07/23/hello-r-markdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
   </channel>
