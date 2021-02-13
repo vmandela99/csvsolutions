@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on CSV SOLUTIONS</title>
-    <link>https://csvsolutions.netlify.app/contact/</link>
+    <link>https://www.csvresearch.com/contact/</link>
     <description>Recent content in Contact on CSV SOLUTIONS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate><atom:link href="https://csvsolutions.netlify.app/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2018 17:01:34 +0700</lastBuildDate><atom:link href="https://www.csvresearch.com/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -1,4 +1,4 @@
-baseURL = "https://csvsolutions.netlify.app"
+baseURL = "https://www.csvresearch.com/"
 languageCode = "en-us"
 title = "CSV SOLUTIONS"
 theme = "hugo-hero-theme"
@@ -7,10 +7,10 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.homepage_meta_tags]
-    meta_description = "CSV solutions is aimed at providing data science solutions for better understanding of data. It also focuses on machine learning to inform better planning."
-    meta_og_title = "CSV SOLUTIONS"
+    meta_description = "CSV Research solutions is aimed at providing data science solutions for better understanding of data. It also focuses on machine learning to inform better planning."
+    meta_og_title = "CSV RESEARCH SOLUTIONS"
     meta_og_type = "website"
-    meta_og_url = "https://csvsolutions.netlify.app"
+    meta_og_url = "https://csvresearch.com/"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
     meta_og_description = "CSV solutions is aimed at providing data science solutions for better understanding of data. It also focuses on machine learning to inform better planning"
     meta_twitter_card = "summary"
@@ -46,3 +46,4 @@ theme = "hugo-hero-theme"
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
+  
