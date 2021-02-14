@@ -16,7 +16,7 @@ theme = "hugo-hero-theme"
     meta_twitter_card = "summary"
     meta_twitter_site = "@csvsolutions"
     meta_twitter_creator = "@csvsolutions"
-
+    
 [[menu.main]]
 	name = "Services"
 	url = "/services/"
@@ -42,7 +42,25 @@ theme = "hugo-hero-theme"
     name = "Contact"
     url = "/contact/"
     weight = 4
-
+    
+[[menu.main]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin"
+    url = "https://www.linkedin.com/company/csvresearchsolutions/"
+    weight = 5
+    
+[[menu.main]]
+    name = "Github"
+    icon = "fa fa-github"
+    weight = 6
+    url = "https://github.com/csvsolutions/"
+    
+[[menu.main]]
+    name = "YouTube"
+    icon = "fa fa-youtube"
+    weight = 7
+    url = "https://www.youtube.com/channel/UC-YubzT01YgvBDDQp6UbzxA/about"
+    
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
