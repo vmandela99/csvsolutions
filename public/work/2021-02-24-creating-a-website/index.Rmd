@@ -2,7 +2,7 @@
 title: Creating a website for free
 author: ''
 date: '2021-02-24'
-slug: creating-a-website-for-free
+slug: creating-a-website
 categories:
   - R
 tags:
