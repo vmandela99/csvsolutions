@@ -31,6 +31,7 @@ library(blogdown)
 library(widgetframe)
 ```
 
+![](Featured.png)
 We are offering free training from February 26th to March 2nd 2021.
 
 Building your own website, for forever.
@@ -54,7 +55,7 @@ All these are professional gestures. It is very important to build your brand. W
 Apply through the link below.
 
 
-<iframe height="800" width="600" frameborder="no" src="https://ee.kobotoolbox.org/i/69E4LxpN/"> </iframe>
+<iframe height="1200" width="450" frameborder="no" src="https://ee.kobotoolbox.org/i/69E4LxpN/"> </iframe>
 
 <br>
 
