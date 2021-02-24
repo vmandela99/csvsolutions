@@ -24,7 +24,7 @@ knitr::opts_chunk$set(
   out.width='100%'
 )
 
-library(shiny)
+library(blogdown)
 library(widgetframe)
 ```
 
