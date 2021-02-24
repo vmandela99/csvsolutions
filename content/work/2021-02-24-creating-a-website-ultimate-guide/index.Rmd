@@ -23,8 +23,7 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
-  fig.align = "center",
-  out.width='100%'
+  fig.align = "left"
 )
 
 library(blogdown)
@@ -44,7 +43,7 @@ Check out my website!.... I have this blog in my post!... You can get my service
 
 All these are professional gestures. It is very important to build your brand. We at CSV Research Solutions are calling for applicants to our upcoming website development training this February. Claim your online space, like a pro.
 
-Apply through the link below.
+Apply by filling the form below.
 
 Building your own website, for forever.
 

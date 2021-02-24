@@ -1,0 +1,41 @@
+---
+title: Data Science training
+author: ''
+date: '2021-02-25'
+slug: data-science-training
+categories:
+  - R
+tags:
+  - R shiny apps
+  - Creating websites
+draft: no
+weight: 100
+heroHeading: Work
+heroSubHeading: Our portfolio and previous projects
+heroBackground: https://source.unsplash.com/1600x900/?architecture
+image: work/work1.jpg
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  fig.align = "left"
+)
+
+library(blogdown)
+library(widgetframe)
+```
+
+
+Data Science is a mix of various tools, predictive algorithms, and machine learning principles with a main goal to discover unvail pattern and insights from data. We are offering training from 15th March 2021 to end of March 2021. 
+
+Fill the form that follows to register.
+
+<iframe height="1200" width="450" frameborder="no" src="https://ee.kobotoolbox.org/i/Nh3l5I9Q/"> </iframe>
+
+<br>
+
+
+Please submit the form after completion.
