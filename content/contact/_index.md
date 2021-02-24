@@ -2,13 +2,13 @@
 date: "2018-02-22T17:01:34+07:00"
 title: Contact
 
-widget: contact
+widget: Contact
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+#weight: 
 
 
 content:
