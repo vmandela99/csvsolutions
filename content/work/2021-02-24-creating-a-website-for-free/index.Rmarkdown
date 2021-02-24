@@ -14,7 +14,9 @@ heroSubHeading: Our portfolio and previous projects
 heroBackground: https://source.unsplash.com/1600x900/?architecture
 image: work/work1.jpg
 runtime: shiny
-output: html_document
+output:
+  blogdown::html_page:
+    toc: false
 ---
 
 We are offering free training from February 26th to March 2nd 2021.
