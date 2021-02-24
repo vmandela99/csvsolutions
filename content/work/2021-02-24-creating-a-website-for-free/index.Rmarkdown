@@ -1,13 +1,18 @@
 ---
-title: Creating a website
+title: Creating a website for free
 author: ''
 date: '2021-02-24'
-slug: creating-a-website
+slug: creating-a-website-for-free
 categories:
   - R
 tags:
   - Training
-draft: yes
+draft: no
+weight: 100
+heroHeading: Work
+heroSubHeading: Our portfolio and previous projects
+heroBackground: https://source.unsplash.com/1600x900/?architecture
+image: work/work1.jpg
 runtime: shiny
 output: html_document
 ---
@@ -38,5 +43,3 @@ Apply through the link below.
 <iframe height="800" width="100%" frameborder="no" src="https://ee.kobotoolbox.org/i/69E4LxpN" ></iframe>
 
  <br>
- 
- Please submit your application for review.
