@@ -3,12 +3,11 @@ title: 'Creating a website for free: Ultimate guide'
 author: ''
 date: '2021-02-25'
 slug: creating-a-website-for-free-ultimate-guide
-categories:
-  - R
+categories: R
 tags:
-  - Creating websites
-  - R Markdown
-  - Training
+- Creating websites
+- R Markdown
+- Training
 draft: no
 weight: 100
 heroHeading: Work
