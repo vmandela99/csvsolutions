@@ -3,13 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.csvresearch.com/services/accounting/</loc>
+    <loc>https://www.csvresearch.com/services/training/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.csvresearch.com/services/_tax-filing/</loc>
+    <loc>https://www.csvresearch.com/services/research/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.csvresearch.com/services/training/2021-02-24-/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.csvresearch.com/services/training/creating-a-website-for-free/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.csvresearch.com/categories/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.csvresearch.com/categories/r/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.csvresearch.com/tags/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.csvresearch.com/tags/training/</loc>
+    <lastmod>2021-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,22 +58,22 @@
   </url>
   
   <url>
-    <loc>https://www.csvresearch.com/services/mergers/</loc>
+    <loc>https://www.csvresearch.com/services/dashboard-development/</loc>
     <lastmod>2018-11-28T15:15:34+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.csvresearch.com/services/business-sales/</loc>
+    <loc>https://www.csvresearch.com/services/business-understanding/</loc>
     <lastmod>2018-11-28T15:15:26+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.csvresearch.com/services/superannuation/</loc>
+    <loc>https://www.csvresearch.com/services/geospatial-information-systems/</loc>
     <lastmod>2018-11-28T15:14:54+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.csvresearch.com/services/business-advisory/</loc>
+    <loc>https://www.csvresearch.com/services/data-analysis/</loc>
     <lastmod>2018-11-28T15:14:39+10:00</lastmod>
   </url>
   
@@ -73,11 +103,6 @@
   </url>
   
   <url>
-    <loc>https://www.csvresearch.com/categories/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.csvresearch.com/2015/07/23/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
@@ -93,22 +118,12 @@
   </url>
   
   <url>
-    <loc>https://www.csvresearch.com/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.csvresearch.com/tags/r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.csvresearch.com/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.csvresearch.com/tags/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on CSV SOLUTIONS</title>
-    <link>https://www.csvresearch.com/categories/r/</link>
-    <description>Recent content in R on CSV SOLUTIONS</description>
+    <title>Training on CSV SOLUTIONS</title>
+    <link>https://www.csvresearch.com/tags/training/</link>
+    <description>Recent content in Training on CSV SOLUTIONS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csvresearch.com/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csvresearch.com/tags/training/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://www.csvresearch.com/services/training/2021-02-24-/</link>
@@ -27,17 +27,6 @@ Training and capacity building Development of capacity through continuous learni
  Training draft: yes   We are offering free training from February 26th to March 2nd 2021.
 Building your own website, for forever.
 Own your Space Check out my website!&amp;hellip;. I have this blog in my post!&amp;hellip; You can get my services on my website!&amp;hellip; I have a profile and projects that are live on my site!</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://www.csvresearch.com/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://www.csvresearch.com/2015/07/23/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
     </item>
     
   </channel>

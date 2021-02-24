@@ -60,7 +60,7 @@ theme = "hugo-hero-theme"
     icon = "fa fa-youtube"
     weight = 7
     url = "https://www.youtube.com/channel/UC-YubzT01YgvBDDQp6UbzxA/about"
-    
+  
 [permalinks]
   post = "/:year/:month/:day/:slug/"
   pages = "/:filename/"
