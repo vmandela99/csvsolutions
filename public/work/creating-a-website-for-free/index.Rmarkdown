@@ -40,6 +40,9 @@ All these are professional gestures. It is very important to build your brand. W
 Apply through the link below.
 
 
-<iframe height="800" width="100%" frameborder="no" src="https://ee.kobotoolbox.org/i/69E4LxpN" ></iframe>
+<iframe src="https://ee.kobotoolbox.org/i/69E4LxpN" width="800" height="600"></iframe>
 
- <br>
+
+<br>
+ 
+Please submit the form after completion.
