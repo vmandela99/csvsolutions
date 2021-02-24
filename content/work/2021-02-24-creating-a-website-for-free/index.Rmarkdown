@@ -19,6 +19,16 @@ output:
     toc: false
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  fig.align = "center",
+  out.width='100%'
+)
+
+library(shiny)
+library(widgetframe)
+```
+
 We are offering free training from February 26th to March 2nd 2021.
 
 Building your own website, for forever.
