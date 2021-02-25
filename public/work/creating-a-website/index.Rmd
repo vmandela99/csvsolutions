@@ -30,7 +30,7 @@ library(blogdown)
 library(widgetframe)
 ```
 
-![](Featured.png)
+![](Featured.png){width=50%}
 We are offering free training from February 26th to March 2nd 2021.
 
 Building your own website, for forever.

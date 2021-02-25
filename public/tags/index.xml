@@ -6,13 +6,40 @@
     <description>Recent content in Tags on CSV SOLUTIONS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csvresearch.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csvresearch.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creating websites</title>
       <link>https://www.csvresearch.com/tags/creating-websites/</link>
-      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.csvresearch.com/tags/creating-websites/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>https://www.csvresearch.com/tags/r-markdown/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csvresearch.com/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R shiny apps</title>
+      <link>https://www.csvresearch.com/tags/r-shiny-apps/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csvresearch.com/tags/r-shiny-apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training</title>
+      <link>https://www.csvresearch.com/tags/training/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csvresearch.com/tags/training/</guid>
       <description></description>
     </item>
     
@@ -26,15 +53,6 @@
     </item>
     
     <item>
-      <title>Training</title>
-      <link>https://www.csvresearch.com/tags/training/</link>
-      <pubDate>Wed, 24 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.csvresearch.com/tags/training/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Dashboard</title>
       <link>https://www.csvresearch.com/tags/dashboard/</link>
       <pubDate>Sat, 10 Feb 2018 11:52:18 +0700</pubDate>
@@ -44,29 +62,11 @@
     </item>
     
     <item>
-      <title>R shiny apps</title>
-      <link>https://www.csvresearch.com/tags/r-shiny-apps/</link>
-      <pubDate>Sat, 10 Feb 2018 11:52:18 +0700</pubDate>
-      
-      <guid>https://www.csvresearch.com/tags/r-shiny-apps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>plot</title>
       <link>https://www.csvresearch.com/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>https://www.csvresearch.com/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>https://www.csvresearch.com/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://www.csvresearch.com/tags/r-markdown/</guid>
       <description></description>
     </item>
     

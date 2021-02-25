@@ -6,7 +6,30 @@
     <description>Recent content in R on CSV SOLUTIONS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csvresearch.com/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csvresearch.com/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating a website for free: Ultimate guide</title>
+      <link>https://www.csvresearch.com/work/creating-a-website-for-free-ultimate-guide/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csvresearch.com/work/creating-a-website-for-free-ultimate-guide/</guid>
+      <description>Tools neededNote that you don’t have to have expert programming for this course.In preparation we need the following:-
+RRstudiogit for desktopAlso, you need to create an account with:-
+netlifygithubSetting up R and R studioInstall the R and R studio.Connect rstudio to github accountGo to rstudio &amp;gt; tools &amp;gt; Global options &amp;gt; GIT/SVN &amp;gt; SSH RSA key &amp;gt; Create RSA key &amp;gt; view public key &amp;gt; copy</description>
+    </item>
+    
+    <item>
+      <title>Data Science training</title>
+      <link>https://www.csvresearch.com/work/data-science-training/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csvresearch.com/work/data-science-training/</guid>
+      <description>Data Science is a mix of various tools, predictive algorithms, and machine learning principles with a main goal to discover unveil pattern and insights from data. We are offering training from 15th March 2021 to end of March 2021.
+Fill the form that follows to register.
+
+Please submit the form after completion.</description>
+    </item>
+    
     <item>
       <title></title>
       <link>https://www.csvresearch.com/services/training/2021-02-24-/</link>
