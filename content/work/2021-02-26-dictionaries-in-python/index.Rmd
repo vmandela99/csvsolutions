@@ -1,0 +1,159 @@
+---
+title: "Dictionaries in Python"
+author: ''
+date: '2021-02-26'
+slug: dictionaries-in-python
+categories:
+- R
+- python
+tags: Data analysis
+draft: no
+weight: 100
+heroHeading: Work
+heroSubHeading: Our portfolio and previous projects
+heroBackground: https://source.unsplash.com/1600x900/?architecture
+image: work/work1.jpg
+---
+
+## Dictionaries in Python: With examples
+
+### What is a dictionary in python?
+
+Dictionaries allow us to work with key:value pairs. Key:value pairs are two linked values where the key is a unique identifier where we can find or data, and the value is that data. We can actually think of that like a real physical dictionary where we look up word definitions, in that example each word that we look up would be the key and the difination of that word would be the value.
+
+### Dictionary in Python: Example 1
+
+Lets check some examples:-
+
+lets say we wanted to represent a programmer using a dictionary, We first set a programmer variable, and set their details that include name, age and skills as follows.
+
+```
+programmer = {'name': 'John', 'age' : 25, 'skills' : ['python', 'java']}
+
+print(programmer)
+
+```
+
+From the example, it shows that we start our python dictionary by creating a programmer variable and then we start our dictionary using curly braces {}, when the put on the keys followed by subsequent their values. Note that the keys and values are separated by colon :.
+
+You can print out and see how it looks.
+
+### Getting a value of one key from a dictionary.
+
+Say we want to access the value of **'name'** key, we put square brackets after the dictionary and specify the key that we want to access.
+
+```
+programmer = {'name': 'John', 'age' : 25, 'skills' : ['python', 'java']}
+
+print(programmer['name'])
+
+## output[1]
+John
+```
+
+If we wanted the values of the **'skills'** instead we can pass the **'skills'** for the key like so:-
+
+```
+programmer = {'name': 'John', 'age' : 25, 'skills' : ['python', 'java']}
+
+print(programmer['skills'])
+
+## output[1]
+['python', 'java']
+```
+
+We can see that the values in a python dictionary can be anything; the 'name' is a string; the age is an integer; and skills are a list.
+
+### Adding new keys:values pairs in an existing python dictionary.
+
+To add new key:pair values to an existing dictionary, for example 'phone' to the 'programmer' dictionary, we would:-
+
+```
+programmer = {'name': 'John', 'age' : 25, 'skills' : ['python', 'java']}
+
+programmer['phone'] = '777-555'
+
+print(programmer)
+
+#output[1]
+{'name': 'James', 'age': 25, 'skills': ['python', 'java'], 'phone': '777-555'}
+```
+
+
+### Updating values in a python dictionary
+
+To update values in a dictionary, for example if wanted to update the programmer **'name'** key, with a value 'James' in the programmer dictionary we would:-
+
+```
+programmer = {'name': 'John', 'age' : 25, 'skills' : ['python', 'java']}
+
+programmer['name'] = 'James'
+
+print(programmer)
+
+#output[1]
+{'name': 'James', 'age' : 25, 'skills' : ['python', 'java']}
+```
+
+### Updating multiple values in a python dictionary
+
+To update multiple values at once in dictionary, for example the 'name' to 'James', 'age' to 26 and 'phone' to '777-555', we can use `programmer.update()` key word as shown:-
+
+```
+programmer = {'name': 'John', 'age' : 25, 'skills' : ['python', 'java']}
+
+programmer.update = ({'name': 'James', 'age' : 26, 'phone': '777-555'})
+
+print(programmer)
+
+#output[1]
+{'name': 'James', 'age' : 26, 'skills' : ['python', 'java'], 'phone': '777-555'}
+```
+
+### Deleting a key and a value in python dictionaries.
+
+There are two methods to remove a key:value pair, we can use the `del` to delete. For example we can delete 'age' using:-
+
+```
+programmer = {'name': 'John', 'age' : 25, 'skills' : ['python', 'java']}
+
+del programmer['age'] 
+
+print(programmer)
+
+#output[1]
+{'name': 'James', 'skills' : ['python', 'java']}
+```
+Or we can also use the `.pop` extension to remove and also return that value, this allows us to wrap the removed value with a variable. For example :-
+
+```
+programmer = {'name': 'John', 'age' : 25, 'skills' : ['python', 'java']}
+
+age = programmer.pop('age') 
+
+print(programmer)
+print(age)
+
+#output[1]
+{'name': 'James', 'skills' : ['python', 'java']}
+25
+```
+### looping over keys and values in a dictionary
+
+First we would want to see how many values we have in our dictionary we can print its length with `len` function, that is `print(len(programmer))`. If we need to see all of our value in the dictionary we can use `print(programmer.values())`. Alternatively if we wanted to see all of our keys, we would print out `print(programmer.keys())`. If we wanted to see both keys and values in our dictionary we can use `print(programmer.items())`.
+
+Using this criteria we will loop through the items in the dictionary, for example:-
+
+```
+programmer = {'name': 'John', 'age' : 25, 'skills' : ['python', 'java']}
+
+for key, value in programmer.items():
+    print(key value)
+    
+#output[1]
+name John
+age 25
+skills ['python', 'java']
+```
+
+So we can see that for each loop through each key variable was equal to each key,and the each loop through each value variable was equal to each value.

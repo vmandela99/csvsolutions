@@ -1,0 +1,130 @@
+---
+title: "Dictionaries in Python"
+author: ''
+date: '2021-02-26'
+slug: dictionaries-in-python
+categories:
+- R
+- python
+tags: Data analysis
+draft: no
+weight: 100
+heroHeading: Work
+heroSubHeading: Our portfolio and previous projects
+heroBackground: https://source.unsplash.com/1600x900/?architecture
+image: work/work1.jpg
+---
+
+<script src="{{< blogdown/postref >}}index_files/header-attrs/header-attrs.js"></script>
+
+
+<div id="dictionaries-in-python-with-examples" class="section level2">
+<h2>Dictionaries in Python: With examples</h2>
+<div id="what-is-a-dictionary-in-python" class="section level3">
+<h3>What is a dictionary in python?</h3>
+<p>Dictionaries allow us to work with key:value pairs. Key:value pairs are two linked values where the key is a unique identifier where we can find or data, and the value is that data. We can actually think of that like a real physical dictionary where we look up word definitions, in that example each word that we look up would be the key and the difination of that word would be the value.</p>
+</div>
+<div id="dictionary-in-python-example-1" class="section level3">
+<h3>Dictionary in Python: Example 1</h3>
+<p>Lets check some examples:-</p>
+<p>lets say we wanted to represent a programmer using a dictionary, We first set a programmer variable, and set their details that include name, age and skills as follows.</p>
+<pre><code>programmer = {&#39;name&#39;: &#39;John&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
+
+print(programmer)
+</code></pre>
+<p>From the example, it shows that we start our python dictionary by creating a programmer variable and then we start our dictionary using curly braces {}, when the put on the keys followed by subsequent their values. Note that the keys and values are separated by colon :.</p>
+<p>You can print out and see how it looks.</p>
+</div>
+<div id="getting-a-value-of-one-key-from-a-dictionary." class="section level3">
+<h3>Getting a value of one key from a dictionary.</h3>
+<p>Say we want to access the value of <strong>‘name’</strong> key, we put square brackets after the dictionary and specify the key that we want to access.</p>
+<pre><code>programmer = {&#39;name&#39;: &#39;John&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
+
+print(programmer[&#39;name&#39;])
+
+## output[1]
+John</code></pre>
+<p>If we wanted the values of the <strong>‘skills’</strong> instead we can pass the <strong>‘skills’</strong> for the key like so:-</p>
+<pre><code>programmer = {&#39;name&#39;: &#39;John&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
+
+print(programmer[&#39;skills&#39;])
+
+## output[1]
+[&#39;python&#39;, &#39;java&#39;]</code></pre>
+<p>We can see that the values in a python dictionary can be anything; the ‘name’ is a string; the age is an integer; and skills are a list.</p>
+</div>
+<div id="adding-new-keysvalues-pairs-in-an-existing-python-dictionary." class="section level3">
+<h3>Adding new keys:values pairs in an existing python dictionary.</h3>
+<p>To add new key:pair values to an existing dictionary, for example ‘phone’ to the ‘programmer’ dictionary, we would:-</p>
+<pre><code>programmer = {&#39;name&#39;: &#39;John&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
+
+programmer[&#39;phone&#39;] = &#39;777-555&#39;
+
+print(programmer)
+
+#output[1]
+{&#39;name&#39;: &#39;James&#39;, &#39;age&#39;: 25, &#39;skills&#39;: [&#39;python&#39;, &#39;java&#39;], &#39;phone&#39;: &#39;777-555&#39;}</code></pre>
+</div>
+<div id="updating-values-in-a-python-dictionary" class="section level3">
+<h3>Updating values in a python dictionary</h3>
+<p>To update values in a dictionary, for example if wanted to update the programmer <strong>‘name’</strong> key, with a value ‘James’ in the programmer dictionary we would:-</p>
+<pre><code>programmer = {&#39;name&#39;: &#39;John&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
+
+programmer[&#39;name&#39;] = &#39;James&#39;
+
+print(programmer)
+
+#output[1]
+{&#39;name&#39;: &#39;James&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}</code></pre>
+</div>
+<div id="updating-multiple-values-in-a-python-dictionary" class="section level3">
+<h3>Updating multiple values in a python dictionary</h3>
+<p>To update multiple values at once in dictionary, for example the ‘name’ to ‘James’, ‘age’ to 26 and ‘phone’ to ‘777-555’, we can use <code>programmer.update()</code> key word as shown:-</p>
+<pre><code>programmer = {&#39;name&#39;: &#39;John&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
+
+programmer.update = ({&#39;name&#39;: &#39;James&#39;, &#39;age&#39; : 26, &#39;phone&#39;: &#39;777-555&#39;})
+
+print(programmer)
+
+#output[1]
+{&#39;name&#39;: &#39;James&#39;, &#39;age&#39; : 26, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;], &#39;phone&#39;: &#39;777-555&#39;}</code></pre>
+</div>
+<div id="deleting-a-key-and-a-value-in-python-dictionaries." class="section level3">
+<h3>Deleting a key and a value in python dictionaries.</h3>
+<p>There are two methods to remove a key:value pair, we can use the <code>del</code> to delete. For example we can delete ‘age’ using:-</p>
+<pre><code>programmer = {&#39;name&#39;: &#39;John&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
+
+del programmer[&#39;age&#39;] 
+
+print(programmer)
+
+#output[1]
+{&#39;name&#39;: &#39;James&#39;, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}</code></pre>
+<p>Or we can also use the <code>.pop</code> extension to remove and also return that value, this allows us to wrap the removed value with a variable. For example :-</p>
+<pre><code>programmer = {&#39;name&#39;: &#39;John&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
+
+age = programmer.pop(&#39;age&#39;) 
+
+print(programmer)
+print(age)
+
+#output[1]
+{&#39;name&#39;: &#39;James&#39;, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
+25</code></pre>
+</div>
+<div id="looping-over-keys-and-values-in-a-dictionary" class="section level3">
+<h3>looping over keys and values in a dictionary</h3>
+<p>First we would want to see how many values we have in our dictionary we can print its length with <code>len</code> function, that is <code>print(len(programmer))</code>. If we need to see all of our value in the dictionary we can use <code>print(programmer.values())</code>. Alternatively if we wanted to see all of our keys, we would print out <code>print(programmer.keys())</code>. If we wanted to see both keys and values in our dictionary we can use <code>print(programmer.items())</code>.</p>
+<p>Using this criteria we will loop through the items in the dictionary, for <a href="example:-" class="uri">example:-</a></p>
+<pre><code>programmer = {&#39;name&#39;: &#39;John&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
+
+for key, value in programmer.items():
+    print(key value)
+    
+#output[1]
+name John
+age 25
+skills [&#39;python&#39;, &#39;java&#39;]</code></pre>
+<p>So we can see that for each loop through each key variable was equal to each key,and the each loop through each value variable was equal to each value.</p>
+</div>
+</div>

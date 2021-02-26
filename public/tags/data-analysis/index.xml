@@ -6,7 +6,16 @@
     <description>Recent content in Data analysis on CSV SOLUTIONS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csvresearch.com/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.csvresearch.com/tags/data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dictionaries in Python</title>
+      <link>https://www.csvresearch.com/work/dictionaries-in-python/</link>
+      <pubDate>Fri, 26 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.csvresearch.com/work/dictionaries-in-python/</guid>
+      <description>Dictionaries in Python: With examplesWhat is a dictionary in python?Dictionaries allow us to work with key:value pairs. Key:value pairs are two linked values where the key is a unique identifier where we can find or data, and the value is that data. We can actually think of that like a real physical dictionary where we look up word definitions, in that example each word that we look up would be the key and the difination of that word would be the value.</description>
+    </item>
+    
     <item>
       <title>Creating a website for free</title>
       <link>https://www.csvresearch.com/work/creating-a-website/</link>
