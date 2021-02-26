@@ -4,7 +4,7 @@ title = "CSV SOLUTIONS"
 theme = "hugo-hero-theme"
 
 [params]
-  google_analytics_id=""
+  google_analytics_id="G-Z8GJ7GZJEN"
 
   [params.homepage_meta_tags]
     meta_description = "CSV Research solutions is aimed at providing data science solutions for better understanding of data. It also focuses on machine learning to inform better planning."
