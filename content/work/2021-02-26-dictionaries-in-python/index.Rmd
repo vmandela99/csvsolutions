@@ -19,7 +19,7 @@ image: work/work1.jpg
 
 ### What is a dictionary in python?
 
-Dictionaries allow us to work with key:value pairs. Key:value pairs are two linked values where the key is a unique identifier where we can find or data, and the value is that data. We can actually think of that like a real physical dictionary where we look up word definitions, in that example each word that we look up would be the key and the difination of that word would be the value.
+Dictionaries allow us to work with key:value pairs. Key:value pairs are two linked values where the key is a unique identifier, and the value is that data. We can actually think of that like a real physical dictionary where we look up word definitions, in that example each word that we look up would be the key and the definition of that word would be the value.
 
 ### Dictionary in Python: Example 1
 
