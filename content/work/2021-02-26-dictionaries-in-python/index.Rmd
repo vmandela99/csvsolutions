@@ -42,7 +42,7 @@ You can print out and see how it looks.
 
 Say we want to access the value of **'name'** key, we put square brackets after the dictionary and specify the key that we want to access.
 
-```{python eval=FALSE, include=TRUE}
+```{r eval=FALSE, include=TRUE, animation.hook='gifski'}
 programmer = {'name': 'John', 'age' : 25, 'skills' : ['python', 'java']}
 
 print(programmer['name'])
