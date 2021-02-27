@@ -30,10 +30,10 @@
       </a>
     </li>
     
-    <li class="menu-item-work">
+    <li class="menu-item-posts">
       <a href="/work/">
         
-        <span>Work</span>
+        <span>Posts</span>
       </a>
     </li>
     
@@ -101,10 +101,10 @@
       </a>
     </li>
     
-    <li class="menu-item-work">
+    <li class="menu-item-posts">
       <a href="/work/">
         
-        <span>Work</span>
+        <span>Posts</span>
       </a>
     </li>
     
@@ -181,7 +181,7 @@
 <h2>Dictionaries in Python: With examples</h2>
 <div id="what-is-a-dictionary-in-python" class="section level3">
 <h3>What is a dictionary in python?</h3>
-<p>Dictionaries allow us to work with key:value pairs. Key:value pairs are two linked values where the key is a unique identifier where we can find or data, and the value is that data. We can actually think of that like a real physical dictionary where we look up word definitions, in that example each word that we look up would be the key and the difination of that word would be the value.</p>
+<p>Dictionaries allow us to work with key:value pairs. Key:value pairs are two linked values where the key is a unique identifier, and the value is that data. We can actually think of that like a real physical dictionary where we look up word definitions, in that example each word that we look up would be the key and the definition of that word would be the value.</p>
 </div>
 <div id="dictionary-in-python-example-1" class="section level3">
 <h3>Dictionary in Python: Example 1</h3>
@@ -197,7 +197,7 @@ print(programmer)
 <div id="getting-a-value-of-one-key-from-a-dictionary." class="section level3">
 <h3>Getting a value of one key from a dictionary.</h3>
 <p>Say we want to access the value of <strong>‘name’</strong> key, we put square brackets after the dictionary and specify the key that we want to access.</p>
-<pre><code>programmer = {&#39;name&#39;: &#39;John&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
+<pre class="r"><code>programmer = {&#39;name&#39;: &#39;John&#39;, &#39;age&#39; : 25, &#39;skills&#39; : [&#39;python&#39;, &#39;java&#39;]}
 
 print(programmer[&#39;name&#39;])
 
@@ -349,13 +349,13 @@ blogdown::hugo_version()</code></pre>
 <li>Go to <a href="https://themes.gohugo.io/">hugo themes</a></li>
 <li>Choose a theme</li>
 <li>Then download</li>
-<li>Copy the end of the link e.g if <code>https://github.com/rafed/ramium</code> &gt; copy <code>“rafed/ramium”</code></li>
+<li>Copy the end of the link e.g if <code>https://github.com/zerostaticthemes/hugo-hero-theme</code> &gt; copy <code>“zerostaticthemes/hugo-hero-theme”</code></li>
 </ul>
 <p><em>More code</em></p>
 <ul>
 <li>Go to rstudio and run the following code</li>
 </ul>
-<pre><code>blogdown::install_theme(&quot;rafed/ramium&quot;)</code></pre>
+<pre><code>blogdown::new_site(theme = &quot;zerostaticthemes/hugo-hero-theme&quot;)</code></pre>
 </div>
 </div>
 </div>
@@ -548,6 +548,15 @@ Figure 1: A fancy pie chart.
   
   
   
+    
+      
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z8GJ7GZJEN"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-Z8GJ7GZJEN');
+      </script>
     
   
 

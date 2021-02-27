@@ -19,7 +19,7 @@ image: work/work1.jpg
 
 ### What is a dictionary in python?
 
-Dictionaries allow us to work with key:value pairs. Key:value pairs are two linked values where the key is a unique identifier where we can find or data, and the value is that data. We can actually think of that like a real physical dictionary where we look up word definitions, in that example each word that we look up would be the key and the difination of that word would be the value.
+Dictionaries allow us to work with key:value pairs. Key:value pairs are two linked values where the key is a unique identifier, and the value is that data. We can actually think of that like a real physical dictionary where we look up word definitions, in that example each word that we look up would be the key and the definition of that word would be the value.
 
 ### Dictionary in Python: Example 1
 
@@ -42,7 +42,7 @@ You can print out and see how it looks.
 
 Say we want to access the value of **'name'** key, we put square brackets after the dictionary and specify the key that we want to access.
 
-```
+```{r eval=FALSE, include=TRUE, animation.hook='gifski'}
 programmer = {'name': 'John', 'age' : 25, 'skills' : ['python', 'java']}
 
 print(programmer['name'])
