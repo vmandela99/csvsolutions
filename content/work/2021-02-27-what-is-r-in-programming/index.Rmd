@@ -1,0 +1,13 @@
+---
+title: What is R in programming
+author: ''
+date: '2021-02-27'
+slug: what-is-r-in-programming
+categories:
+  - R
+tags:
+  - R Markdown
+draft: yes
+
+---
+

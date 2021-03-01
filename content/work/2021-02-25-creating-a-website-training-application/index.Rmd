@@ -36,7 +36,7 @@ Also, you need to create an account with:-
 
 ## Connect rstudio to github account
 
-- Go to rstudio > tools > Global options >  GIT/SVN  > SSH RSA key > Create RSA key > view public key > copy
+- Go to rstudio > tools > Global options >  GIT/SVN  > SSH RSA key > Create RSA key > close > view public key > copy
 
 - Go to github > Settings (top right corner) > SSH and GPG keys > SSH keys >  New SSH key > title (put your name) > key (paste the public key) > add SSH key
 
@@ -56,7 +56,9 @@ git config --global --list
 
 ### Build the website
 
-- New project > version control > git > paste the cloned repo > create a new subdirectory > create project
+In Rstudio
+
+-File > New project > version control > git > paste the cloned repo > create a new subdirectory > create project
 
 *Some code - *run the following code in the console
 

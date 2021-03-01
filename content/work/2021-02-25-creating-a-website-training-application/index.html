@@ -43,7 +43,7 @@ In preparation we need the following:-</p>
 <div id="connect-rstudio-to-github-account" class="section level2">
 <h2>Connect rstudio to github account</h2>
 <ul>
-<li><p>Go to rstudio &gt; tools &gt; Global options &gt; GIT/SVN &gt; SSH RSA key &gt; Create RSA key &gt; view public key &gt; copy</p></li>
+<li><p>Go to rstudio &gt; tools &gt; Global options &gt; GIT/SVN &gt; SSH RSA key &gt; Create RSA key &gt; close &gt; view public key &gt; copy</p></li>
 <li><p>Go to github &gt; Settings (top right corner) &gt; SSH and GPG keys &gt; SSH keys &gt; New SSH key &gt; title (put your name) &gt; key (paste the public key) &gt; add SSH key</p></li>
 </ul>
 </div>
@@ -61,9 +61,8 @@ git config --global --list</code></pre>
 </div>
 <div id="build-the-website" class="section level3">
 <h3>Build the website</h3>
-<ul>
-<li>New project &gt; version control &gt; git &gt; paste the cloned repo &gt; create a new subdirectory &gt; create project</li>
-</ul>
+<p>In Rstudio</p>
+<p>-File &gt; New project &gt; version control &gt; git &gt; paste the cloned repo &gt; create a new subdirectory &gt; create project</p>
 <p><em>Some code - </em>run the following code in the console</p>
 <pre><code>install.packages(“blogdown”)
 blogdown::install_hugo()

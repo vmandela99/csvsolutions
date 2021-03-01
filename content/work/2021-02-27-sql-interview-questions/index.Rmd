@@ -1,0 +1,44 @@
+---
+title: Sql interview questions
+author: ''
+date: '2021-02-27'
+slug: sql-interview-questions
+categories: []
+tags:
+  - Training
+draft: yes
+---
+
+## Top 20 SQL Interview Questions for data scientists
+
+
+SQL or Structured Query Language is a programming language for managing the data in Database Management Systems. SQL programming skills are highly sort after due to the increase in data in this error of technology. Most organisation use very similar SQL interview questions to screen applicant at selection level. This article is meant to show the most frequent asked questions in SQL interviews and the best answers with use cases
+
+The most basic ways companies structure SQL interview questions is from the *basic SQL interview questions* to *the most advance aspects of SQL interview questions*. Keep in mind that SQL questions are meant to gauge your level of experience and education in data base management. The list below show the most common questions:-
+
+## Most Frequently Asked SQL Interview Questions and Answers in technology companies
+
+### 1. What is SQL?
+
+#### Answer
+
+- SQL stands for structured query language
+- it is a standard language for accessing and manipulating databases.
+
+#### use cases
+
+- using SQl you can create databases, tables, you can execute queries, retrieve, insert, update, delete data against your database.
+
+### 2. What are the types of SQL commands and can you explain those commands?
+
+#### Answer and examples
+
+There are four different types of SQL commands. 
+- * DDL - Data Definition language. This ones are used to define the database structure or schema e.g (Create for creating objects in the database, Alter is used to alter the structure of the database, Drop is for deleting objects, Truncate used to remove all the cuts from a table, Comment for adding comments in the data dictionary, Rename)
+- * DML - Data Manipulation Language. There are mainly used to manage objects with the schema. e.g (Select, Insert, Update, Delete, Merge) 
+- * DCL - Data Control Language, this are used to  (Grant, Revoke)
+- * TCL - Transaction Control Language (Commit, Rollback, Savepoint)
+
+
+
+
