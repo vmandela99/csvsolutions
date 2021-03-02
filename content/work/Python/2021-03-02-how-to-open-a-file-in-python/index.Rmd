@@ -1,0 +1,15 @@
+---
+title: How to open a file in Python
+author: ''
+date: '2021-03-02'
+slug: how-to-open-a-file-in-python
+categories:
+  - python
+tags:
+  - Training
+draft: yes
+---
+
+## How to open a file in Python: Ultimate guide
+
+
