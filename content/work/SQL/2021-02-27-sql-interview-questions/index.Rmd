@@ -36,7 +36,7 @@ The most basic ways companies structure SQL interview questions is from the *bas
 There are four different types of SQL commands. 
 - * DDL - Data Definition language. This ones are used to define the database structure or schema e.g (Create for creating objects in the database, Alter is used to alter the structure of the database, Drop is for deleting objects, Truncate used to remove all the cuts from a table, Comment for adding comments in the data dictionary, Rename)
 - * DML - Data Manipulation Language. There are mainly used to manage objects with the schema. e.g (Select, Insert, Update, Delete, Merge) 
-- * DCL - Data Control Language, this are used to  (Grant, Revoke)
+- * DCL - Data Control Language, this are used to (Grant, Revoke)
 - * TCL - Transaction Control Language (Commit, Rollback, Savepoint)
 
 

@@ -1,0 +1,86 @@
+---
+title: 'Creating a website for free: Ultimate guide'
+author: ''
+date: '2021-02-25'
+slug: creating-a-website-for-free-ultimate-guide
+categories: R
+tags:
+- Creating websites
+- R Markdown
+- Training
+draft: no
+weight: 100
+heroHeading: Work
+heroSubHeading: Our portfolio and previous projects
+heroBackground: https://source.unsplash.com/1600x900/?architecture
+image: work/work1.jpg
+---
+
+## Tools needed
+
+Note that you don't have to have expert programming for this course.
+In preparation we need the following:-
+ 
+- [R](https://cran.r-project.org/bin/windows/base/)
+- [Rstudio](https://rstudio.com/products/rstudio/download/)
+- [git for desktop](https://git-scm.com/downloads)
+ 
+Also, you need to create an account with:- 
+ 
+- [netlify](https://www.netlify.com/)
+- [github](https://github.com/)
+
+## Setting up R and R studio
+
+- Install the R and R studio.
+
+## Connect rstudio to github account
+
+- Go to rstudio > tools > Global options >  GIT/SVN  > SSH RSA key > Create RSA key > close > view public key > copy
+
+- Go to github > Settings (top right corner) > SSH and GPG keys > SSH keys >  New SSH key > title (put your name) > key (paste the public key) > add SSH key
+
+## Set up the git for desktop
+
+```
+git config --global user.name 'your github name'
+git config --global user.email 'email address you used on github'
+git config --global --list
+```
+
+### Create repository and clone it on github
+
+
+* Open your github account and create new repository
+* Clone the repository
+
+### Build the website
+
+In Rstudio
+
+-File > New project > version control > git > paste the cloned repo > create a new subdirectory > create project
+
+*Some code - *run the following code in the console
+
+```
+install.packages(“blogdown”)
+blogdown::install_hugo()
+blogdown::hugo_version()
+```
+
+### Select a theme
+
+- Go to [hugo themes](https://themes.gohugo.io/) 
+- Choose a theme
+- Then download
+- Copy the end of the link e.g if `https://github.com/zerostaticthemes/hugo-hero-theme` > copy `“zerostaticthemes/hugo-hero-theme”`
+
+*More code*
+
+ - Go to rstudio and run the following code
+
+```
+blogdown::new_site(theme = "zerostaticthemes/hugo-hero-theme")
+```
+
+

@@ -1,0 +1,52 @@
+---
+title: "What is data base"
+author: ''
+date: '2021-03-02'
+slug: what-is-data-base
+categories: SQL
+tags: Training
+draft: yes
+---
+
+## What is database
+
+A databases is a collection of related data. Databases stores a variety of data such as surnames, emails addresses, encrypted passwords and any other data that you can imagine. Data are facts that can be recorded for example text, numbers, videos, speech, audio and images.
+
+### Types of Databases
+
+1. Flat files
+2. Non relational databases
+3. Relational databases
+
+#### Flat files
+
+Flats files are databases that store data in plain files. Each data record is separated by delimiters such as commas, tabs, etcs. The benefit of using flat files is their simplicity. But when building an application you often need more flexibility which is where a database management system comes in handy.
+
+##### Database Management Systems
+
+Data management systems are software that handle the storage, retrieval and updating of data. The common data management systems are:-
+
+* Non-relational databases (NoSQL)
+* Relational database (SQL)
+
+SQL stands for structured query language, which is a language that makes it possible to easily manage the requested data. 
+
+#### Non-Relaional Database (NoSQL)
+
+Non-relational databases are used to store data that has minimal structure like image data. Non-relational databases can store data as a key:value pair. Some examples of non-relational database systems are;- 
+
+* MongoDB
+* Couchbase
+* Amazon DynamoDB
+
+#### Relational database (SQL)
+
+In a relational database for example one can have different tables for customer information, billing information and image uploaded. With relational database and one SQL command we you are able to pull all that information across all the tables which could not be as easily accomplished as a non-relational database. Some examples of relational database manaagement systems are;- 
+
+* PostgresSQL
+* MSSQL
+* MySQL
+
+
+
+
