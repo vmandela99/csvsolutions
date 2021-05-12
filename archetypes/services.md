@@ -10,14 +10,17 @@ heroSubHeading: 'Services that grow with your business'
 heroBackground: 'services/service1.jpg'
 ---
 
-Most of the services offered by data science consultants involve understanding business problems, reducing costs, increasing profits and shielding business from unforeseen future losses. The main objective of csv solutions is to do just this. Some of the sevices we offer are:-
+Most of the services offered by data science consultants involve understanding business problems, reducing costs, increasing profits and shielding business from unforeseen future losses. The main objective of csv solutions is to do just this. Some of the services we offer are:-
 
 ## Training and capacity building
 
-Development of capacity through continuous learning is very important. Our teaching is majorly focusee on practical projects that are based on hand-on examples. We offer training in the following fields:-
+Wevelopment of capacity through continuous learning is very important. Our teaching is majorly focusee on practical projects that are based on hand-on examples. We offer training in the following fields:-
 
 1. Advanced Excel
 2. Intermediate and advanced R programming
+
+<img src="R_for_Data_science_bronchure.pdf" alt="some text"  width="4200" height="4200">
+
 3. Intermediate, advanced and deep learning using Python
 4. Power BI and Tableau
 5. IBM SPSS
