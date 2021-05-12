@@ -14,10 +14,14 @@ Most of the services offered by data science consultants involve understanding b
 
 ## Training and capacity building
 
-Development of capacity through continuous learning is very important. Our teaching is majorly focus on practical projects that are based on hand-on examples. We offer training in the following fields:-
+Wevelopment of capacity through continuous learning is very important. Our teaching is majorly focus on practical projects that are based on hand-on examples. We offer training in the following fields:-
 
 1. Advanced Excel
 2. Intermediate and advanced R programming
+
+
+![Image Title](R_for_Data_science_bronchure.pdf){width=75%}.
+
 3. Intermediate, advanced and deep learning using Python
 4. Power BI and Tableau
 5. IBM SPSS
