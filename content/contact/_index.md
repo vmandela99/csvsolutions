@@ -28,4 +28,4 @@ design:
   columns: '2'
 ---
   
-We offer a free consultation for all new clients.
+We offer consultation for all new clients.
